@@ -11,6 +11,7 @@ Sales Analysis: Conducted a comprehensive analysis, examining yearly trends, cus
 Finance Analysis: Developed key financial metrics and integrated them into a comprehensive Profit and Loss statement to enhance decision-making capabilities.
 
 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
+
 💠 Data Cleaning:- Ensured data accuracy and consistency using Power Query, setting the stage for insightful analysis.
 💠 Data Transformation:- Transformed raw data into a structured format, suitable for analysis by filtering, sorting, and merging.
 💠 Pivot Table Analysis:- Delved deep into sales data using pivot tables, uncovering key metrics like total sales, targets, and market performance.
