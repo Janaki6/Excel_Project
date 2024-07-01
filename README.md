@@ -1,5 +1,19 @@
 **Excel Sales & Finance Analytics**
 
+Excel Project PPT
+
+Sales Report:
+Customer Performance Report
+Market Performance vs Target
+Products and Division level Report
+
+Finance Report:
+P & L Market Report
+P & L by Year Report
+P & L by Months Report
+
+
+
 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻:**
 
 **Sales Analysis:**
@@ -57,4 +71,3 @@
 𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀: 
 
 This project underscores the importance of detailed data analysis in guiding sound business decisions. By utilizing Excel's robust functionalities, I've gained valuable insights into the sales and finance performance of AtliQ Hardware. Additionally, this endeavour has helped me enhance my skills in data cleaning, transformation, analysis, and visualization.
-
