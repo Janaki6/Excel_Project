@@ -9,7 +9,7 @@
 
 **Finance Analysis:**
 •	Finance analytics serves as a fundamental pillar for organizations, to assess their financial health and performance, providing critical insights into profitability and efficiency. 
-•	Finance analytics plays a pivotal role in making well-informed decisions by furnishing valuable information on financial trends, risk assessments, and investment opportunities. 
+• Finance analytics plays a pivotal role in making well-informed decisions by furnishing valuable information on financial trends, risk assessments, and investment opportunities. 
 •	Financial data analysis forms the base for accurate budgeting and forecasting, providing the insights necessary for effective resource allocation and planning.
 
 **Key Report Highlights**
