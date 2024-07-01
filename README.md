@@ -4,8 +4,7 @@
 
 **Sales Analysis:**
 •	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. 
-•	It empowers organizations to gain deeper insights into their sales processes, customer behaviours, and market dynamics, ultimately driving informed decision-making.
-
+•	It empowers organizations to gain deeper insights into their sales processes, customer behaviours, and market dynamics, ultimately driving informed decision-making
 
 **Finance Analysis:**
 •	Finance analytics serves as a fundamental pillar for organizations, to assess their financial health and performance, providing critical insights into profitability and efficiency. 
