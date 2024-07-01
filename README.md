@@ -3,8 +3,8 @@
 **𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻:**
 
 **Sales Analysis:**
-•	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. 
 
+•	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. 
 •	It empowers organizations to gain deeper insights into their sales processes, customer behaviours, and market dynamics, ultimately driving informed decision-making
 
 **Finance Analysis:**
