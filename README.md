@@ -4,19 +4,26 @@
 
 **Sales Analysis:**
 •	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. 
+
 •	It empowers organizations to gain deeper insights into their sales processes, customer behaviours, and market dynamics, ultimately driving informed decision-making
 
 **Finance Analysis:**
 •	Finance analytics serves as a fundamental pillar for organizations, to assess their financial health and performance, providing critical insights into profitability and efficiency. 
+
 • Finance analytics plays a pivotal role in making well-informed decisions by furnishing valuable information on financial trends, risk assessments, and investment opportunities. 
+
 •	Financial data analysis forms the base for accurate budgeting and forecasting, providing the insights necessary for effective resource allocation and planning.
 
 **Key Report Highlights**
 **From Sales:**
 •	Net sales to Indian customers experienced remarkable growth, increasing by over 3 times in 2021 compared to 2020, resulting in increased business and product demand. 
+
 •	Nova is the top-performing customer in terms of net sales growth from 2020 to 2021, with a 2564.9% increase. 
+
 •	The PC division exhibited the highest surge in net sales, recording a 313.70% increase from 2020 to 2021. 
+
 •	AQ Smash 2 stands out as the top-performing product in terms of net sales growth, showing a 2489.49% increase from 2020 to 2021. 
+
 •	Among all newly launched products, AQ Qwerty is the standout revenue generator, bringing in 22 million.
 
 **From Finance:**
