@@ -4,7 +4,8 @@
 
 **Sales Analysis:**
 
-•	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance. 
+•	Sales analytics is a powerful tool for businesses, enabling them to proactively monitor and assess their sales activities and overall performance.
+
 •	It empowers organizations to gain deeper insights into their sales processes, customer behaviours, and market dynamics, ultimately driving informed decision-making
 
 **Finance Analysis:**
@@ -15,6 +16,7 @@
 •	Financial data analysis forms the base for accurate budgeting and forecasting, providing the insights necessary for effective resource allocation and planning.
 
 **Key Report Highlights**
+
 **From Sales:**
 •	Net sales to Indian customers experienced remarkable growth, increasing by over 3 times in 2021 compared to 2020, resulting in increased business and product demand. 
 
@@ -27,10 +29,15 @@
 •	Among all newly launched products, AQ Qwerty is the standout revenue generator, bringing in 22 million.
 
 **From Finance:**
+
 •	AtliQ Hardware's gross margin percentage (GM%) has experienced a slight decline over the years, decreasing from 41.4% in 2019 to 37.3% in 2020, and further to 36.4% in 2021. 
+
 •	Analysis of monthly sales data reveals fluctuations in AtliQ Hardware's sales throughout the year.
+
 •	Net sales for AtliQ Hardware in 2021 have significantly increased compared to previous years.
+
 •	New Zealand boasts the highest GM% at 48.2%, while Germany records the lowest GM% at 26.2%.
+
 
 
 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀: 
